@@ -1,0 +1,181 @@
+{
+    "title": "Kevin",
+    "logoUrl": "https://aquantic.io/favicon.png",
+    "sections": [
+      {
+        "type": "photo",
+        "url": "https://aquantic.io/_ipx/s_512x512/images/pictures/team/kevin.webp"
+      },
+      {
+        "type": "badges",
+        "items": ["Node JS", "3 ans d'expérience", "Backend", "Scraping", "Git", "Réseaux"]
+      },
+      {
+        "type": "label",
+        "title": "Intro"
+      },
+      {
+        "type": "text",
+        "content": "**Lorem ipsum** dolor ~sit~ amet, _consectetur_ adipiscing elit, ~~this is~~ sed do eiusmod tempor ~incididunt ut~ labore et dolore magna aliqua. ```Ut enim ad minim veniam```, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, [la documentation de Framasite](https://docs.framasoft.org/fr/grav/) anim id est laborum."
+      },
+      {
+        "type": "list",
+        "label": {
+          "type": "label",
+          "title": "Expériences"
+        },
+        "sections": [
+          {
+            "type": "block",
+            "indicator": "2021 - Aujourd'hui",
+            "sections": [
+              {
+                "type": "label",
+                "title": "Développeur web",
+                "linkUrl": "https://www.aquantic.io",
+                "logoUrl": "https://aquantic.io/_ipx/s_160x38/images/logo/aquantic.svg"
+              },
+              {
+                "type": "badges",
+                "items": ["Nuxt", "Next", "React", "Vue"]
+              },
+              {
+                "type": "text",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam, quis nostrud exercitation."
+              },
+              {
+                "type": "media",
+                "urls": [
+                  "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+                  "https://images.unsplash.com/photo-1530435460869-d13625c69bbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "indicator": "2019 - 2020",
+            "sections": [
+              {
+                "type": "label",
+                "title": "Consultant ",
+                "linkUrl": "http://zonova.io/#/",
+                "logoUrl": "https://aquantic.io/_ipx/s_160x38/images/logo/aquantic.svg"
+              },
+              {
+                "type": "badges",
+                "items": ["HTML", "CSS", "Javascript"]
+              },
+              {
+                "type": "text",
+                "content": "Ut enim ad minim veniam, quis nostrud exercitation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "label": {
+          "type": "label",
+          "title": "Formation"
+        },
+        "sections": [
+          {
+            "type": "block",
+            "indicator": "2021 - Aujourd'hui",
+            "sections": [
+              {
+                "type": "label",
+                "title": "Développeur d'application Javascript React",
+                "linkUrl": "https://openclassrooms.com/fr/",
+                "logoUrl": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/61680/oc_logo.png"
+              },
+              {
+                "type": "badges",
+                "items": ["Javascript", "React"]
+              },
+              {
+                "type": "text",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam, quis nostrud exercitation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "level",
+        "title": "Very Long title English",
+        "percentage": 90
+      },
+      {
+        "type": "list",
+        "label": {
+          "type": "label",
+          "title": "Langues"
+        },
+        "sections": [
+          {
+            "type": "block",
+            "sections": [
+              {
+                "type": "level",
+                "title": "Very Long title English",
+                "percentage": 90
+              },
+              {
+                "type": "level",
+                "title": "Español",
+                "percentage": 30
+              },
+              {
+                "type": "level",
+                "title": "Deutsch",
+                "percentage": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "label": {
+          "type": "label",
+          "title": "Hobbies"
+        },
+        "sections": [
+          {
+            "type": "block",
+            "indicator": "Photographie",
+            "sections": [
+              {
+                "type": "badges",
+                "items": ["Passion", "Nature", "Animalière", "Prix de la plus belle photo de biche"]
+              },
+              {
+                "type": "media",
+                "urls": [
+                  "https://images.unsplash.com/photo-1676466920684-5d1aae90c9c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+                  "https://images.unsplash.com/photo-1688233600351-47254bfca479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1527&q=80",
+                  "https://images.unsplash.com/photo-1688317220026-621e3058cc10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=663&q=80",
+                  "https://images.unsplash.com/photo-1688134496728-e3b13596dc06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=885&q=80",
+                  "https://images.unsplash.com/photo-1671600940888-74bdddbffcce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+                  "https://images.unsplash.com/photo-1689348745113-d9b83c0196b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "indicator": "Sport",
+            "sections": [
+              {
+                "type": "badges",
+                "items": ["Course à pieds", "Randonnée", "Golf", "GellyBall"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
